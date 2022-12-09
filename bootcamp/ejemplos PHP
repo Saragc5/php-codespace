@@ -1,0 +1,14 @@
+/var/www/html/codigoPhp/img/ubuntu-logo-png
+
+URL Universal Resource Locator
+
+DocumentRoot: /var/www/html (esta es la ruta en la que lo usuarios pueden buscar documentos,
+a todo lo que esté fuera no se puede acceder)Por ej:
+GET http://localhost:80/../../hola.jpg (esto no se debepermitir porque entonces se pueden conectar a todo)
+
+
+
+GET http://localhost:80/codigoPhp/img/ubuntu-logo.png
+POST 
+PUT
+DELETE 

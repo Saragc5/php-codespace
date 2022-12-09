@@ -1,0 +1,12 @@
+{
+    "name": "sara/codigo-php",
+    "authors": [
+        {
+            "name": "demo.proyect",
+            "email": "sara255530@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
